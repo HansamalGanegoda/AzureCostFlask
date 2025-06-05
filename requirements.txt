@@ -1,0 +1,5 @@
+flask
+prometheus_client
+azure-identity
+azure-mgmt-costmanagement
+python-dotenv
